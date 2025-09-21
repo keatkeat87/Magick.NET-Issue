@@ -11,4 +11,4 @@ await image.WriteAsync(Path.Combine(rootPath, @"logo-edited.png"), MagickFormat.
 image.Quality = 100;
 // logo-edited-100 and logo-edited-100 look fine
 await image.WriteAsync(Path.Combine(rootPath, @"logo-edited-100.avif"), MagickFormat.Avif);
-// await image.WriteAsync(Path.Combine(rootPath, @"logo-edited-100.png"), MagickFormat.Png);
+await image.WriteAsync(Path.Combine(rootPath, @"logo-edited-100.png"), MagickFormat.Png);
