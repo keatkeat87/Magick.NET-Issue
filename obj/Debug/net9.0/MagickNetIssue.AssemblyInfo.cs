@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagickNetIssue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7c806555d30a89b5dcc86b803bc53577fbbe237")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagickNetIssue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagickNetIssue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
