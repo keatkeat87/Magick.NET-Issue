@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbkgGLt9AMg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keatk\\Documents\\keatkeat\\my-projects\\asp.net core\\9.0\\MagickNetIssue\\MagickNetIssue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keatk\\.nuget\\packages\\magick.net-q8-anycpu\\14.8.2\\magick.net-q8-anycpu.14.8.2.nupkg.sha512",
+    "C:\\Users\\keatk\\.nuget\\packages\\magick.net.core\\14.8.2\\magick.net.core.14.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
